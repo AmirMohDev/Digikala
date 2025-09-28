@@ -1,12 +1,40 @@
-# React + Vite
+Digikala Clone
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A fully responsive Digikala e-commerce clone built with modern front-end technologies.
+This project replicates the core design and functionality of Digikala (Iran’s largest online marketplace) with a clean UI and optimized performance.
 
-Currently, two official plugins are available:
+🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+⚡ React + Vite – fast development environment
 
-## Expanding the ESLint configuration
+🎨 Tailwind CSS – modern utility-first styling
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+🧭 React Router – client-side routing for seamless navigation
+
+🔄 React Query – efficient server state management and data fetching
+
+📱 Responsive Design – works perfectly on desktop, tablet, and mobile
+
+🛒 E-commerce UI elements: product list, categories, cart, checkout flow
+
+
+🛠️ Installation & Setup
+
+Clone the repository:
+
+git clone https://github.com/YOUR_USERNAME/digikala-clone.git
+
+
+Install dependencies:
+
+npm install
+
+
+Start development server:
+
+npm run dev
+
+
+Build for production:
+
+npm run build
